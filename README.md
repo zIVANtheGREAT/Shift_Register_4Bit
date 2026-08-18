@@ -39,7 +39,7 @@ end
 ## Files
 
 - `SR4.v` — SIPO shift register module
-- `SR4_tb.v` — testbench (update filename to match yours)
+- `SR4TB.v` — testbench (update filename to match yours)
 
 ## Simulation
 
